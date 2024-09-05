@@ -4,7 +4,7 @@ type: project
 image: img/rpg.png
 title: "2D RPG (UNFINISHED)"
 date: 2023
-published: true
+published: false
 labels:
   - Java
   - Game
