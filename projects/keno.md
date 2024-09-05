@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/keno_title_page.png
+image: 
 title: "Keno"
 date: 2023
 published: true
