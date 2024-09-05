@@ -12,7 +12,7 @@ summary: "An attempt at a 2D RPG game. Fully functioning character movement, cam
 ---
 
 <div class="text-center p-4">
-  <img width="200px" src="../img/Keno.png" class="img-thumbnail" >
+  <img width="200px" src="../img/rpg.png" class="img-thumbnail" >
 </div>
 
 An amateur 2D RPG. Unfinished.
