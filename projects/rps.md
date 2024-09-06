@@ -17,7 +17,7 @@ summary: "Rock Paper Scissors game developed in Java, from the ICS 211 curriculu
 
 A simple implementation of Rock Paper Scissors created with Java Swing. This was created as an example of a GUI in Java that I could quickly refer to when students would seek tutoring with me for this specific assignment.
 
-Here is some code that illustrates how I display the user's choice, and the computer's choice, as well as increment the game stats.
+Here is some code that illustrates how I display the user's choice, the computer's choice, as well as increment the game stats.
 
 ```java
 public void userChose(String option) {
