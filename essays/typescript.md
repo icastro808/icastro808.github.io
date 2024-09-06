@@ -11,7 +11,7 @@ labels:
   - Skill Development
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/time.png">
+<img width="400px" class="rounded float-start pe-4" src="../img/time.png">
  
 Learning a new programming language can be a fun challenge. Many students are typically given a semester to learn and improve their skills in one language and then move onto another the following semester. Learning a new programming language with the time constraint of a week is, on the other hand, not so fun.
  
