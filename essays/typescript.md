@@ -23,4 +23,4 @@ Learning ES6 and Typescript was where familiar concepts and syntax, things I kne
  
 My memorization of this new language was put to the test with the introduction of WOD, or “workouts of the day.” WODs are timed coding exercises introduced in ICS 314, aimed to test and improve your skills to work under the pressure of a time limit. While being told to write code that works as intended is daunting and stressful, it forces you to think on your feet and exposes you to the urgency that a professional programmer will experience in their career, and I believe that this exposure will be an invaluable experience for students entering the industry.
  
-In conclusion, learning Javascript and Typescript in such a short timeframe and participating in WODs have proven to be anxiety-ridden experiences, but ones that I believe will have a beneficial outcome and ones that will ultimately help and propel me in my career.
+In conclusion, learning Javascript and Typescript in such a short timeframe and participating in WODs have proven to be anxiety-ridden experiences, but ones that I believe will have beneficial outcomes for my future professional career.
