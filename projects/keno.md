@@ -8,6 +8,7 @@ published: true
 labels:
   - Java
   - Game
+  - Class Project
 summary: "A Java implementation of the casino game Keno that I developed for my ICS 211 class."
 ---
 
@@ -15,34 +16,35 @@ summary: "A Java implementation of the casino game Keno that I developed for my 
   <img width="200px" src="../img/Keno.png" class="img-thumbnail" >
 </div>
 
-Keno is a lottery-style gambling game. In most version of Keno, you are able to choose 20 numbers out of 80. The winning numbers are drawn randomly, and the payout depends on how many of your selected numbers were drawn.
+Keno is a lottery-style gambling game. In most versions of Keno, you are able to choose 20 numbers out of 80. The winning numbers are drawn randomly, and the payout depends on how many of your selected numbers were drawn.
 
-My version of Keno has shortened this to choose 10 numbers out of 40 for the sake of simplicity (and size of the window!).
+My version of Keno has shortened this to choose 10 numbers out of 40 for the sake of simplicity (and size of the window).
 
-This assignment was one of the first "big" assignments for my ICS 211 class, and it was also one of my first times creating a GUI. My professor's expectations for this assignment were very basic, but I wanted to challenge myself to create something that was not only fun and functional, but also visually pleasing - to me, at least.
+This program was created using Java Swing and AWT. I utilized JPanels to separate the frame into sections: the payout/hit table, game board, and stats table. JOptionPanes were used to provide the user with information regarding how to play the game, and worked alongside JButtons to provide a functioning GUI with real time changes. Arrays were used to keep track of which buttons the user chose, as well as the randomly generated numbers for the drawing.
 
-Here is some code that illustrates how I determined the drawing
+Here is some code that illustrates how I handled the functionality of the game buttons.
 
 ```java
-do {
-  // generate random number for drawing
-
-  for (int i = 0; i < drawn.length; i++) {
-    if (num == drawn[i]) {
-      // checking for duplicates
+for (JButton button : BUTTON_ARR) {
+  if (button.isSelected() && e.getSource() == button) {
+    if (count == MAX) {
+      PLAY_BUTTON.setEnabled(false);
     }
-  }
 
-  // if number drawn is not a duplicate
-  if (!numExists) {
-  if (BUTTON_ARR[num - 1].isSelected()) {
-    // turn all matched buttons green
-    // add to array of matched buttons
-  } else {
-    // number drawn but user did not choose - turn blue
-  }
+  button.setSelected(false);
+  setColor(button, colorArr[0]);
 
-  for (JButton button : BUTTON_ARR) {
-    // turn all user chosen numbers red
+  count--;
+  updateStats();
+  SELECTED_BUTTONS.remove(button);
   }
+  else if (!button.isSelected() && e.getSource() == button) {
+    if (count == MAX) {
+      JOptionPane.showMessageDialog(new JFrame(), "\nYou may only have 10 selected buttons." +
+                                "\n\nClick on a highlighted button to deselect before choosing another.");
+      break;
+    }
+...
+...
+...
 ```
