@@ -7,13 +7,14 @@ date: 2023
 published: true
 labels:
   - Java
+  - Swing
   - Game
   - Class Project
 summary: "A Java implementation of the casino game Keno that I developed for my ICS 211 class."
 ---
 
 <div class="text-center p-4">
-  <img width="200px" src="../img/Keno.png" class="img-thumbnail" >
+  <img width="500px" src="../img/Keno.png" class="img-thumbnail" >
 </div>
 
 Keno is a lottery-style gambling game. In most versions of Keno, you are able to choose 20 numbers out of 80. The winning numbers are drawn randomly, and the payout depends on how many of your selected numbers were drawn.
