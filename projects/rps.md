@@ -7,12 +7,13 @@ date: 2023
 published: true
 labels:
   - Java
+  - Swing
   - Game
 summary: "Rock Paper Scissors game developed in Java, from the ICS 211 curriculum."
 ---
 
 <div class="text-center p-4">
-  <img width="200px" src="../img/rps/rps.png" class="img-thumbnail" >
+  <img width="500px" src="../img/rps/rps.png" class="img-thumbnail" >
 </div>
 
 A simple implementation of Rock Paper Scissors created with Java Swing. This was created as an example of a GUI in Java that I could quickly refer to when students would seek tutoring with me for this specific assignment.
