@@ -14,7 +14,7 @@ summary: "A visualization of binary search trees, and its preorder, inorder, and
 ---
 
 <div class="text-center p-4">
-  <img width="500px" src="../img/bst/BST.png" class="img-thumbnail" >
+  <img width="500px" src="../img/bst/bst.png" class="img-thumbnail" >
 </div>
 
 My first personal project in Java outside of classwork. While the BST section is complete, the Max Heap and AVL Tree sections are largely a work in progress. The entire program may be reworked entirely eventually as I was very much a beginner when I created this.
