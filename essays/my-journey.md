@@ -15,7 +15,7 @@ labels:
  
 As a child, I dreamed of becoming an artist. In my teenage years, I researched art schools and honed my skills. By the time I enrolled in community college, my dream was slowly coming true. Now, as a university student, my art supplies are packed away in my closet, and I’m pursuing a degree in computer science.
 
-How did things change so drastically? Or perhaps, for the better?
+How did things change so drastically? And, perhaps, for the better?
 
 ## The Beginning
 
