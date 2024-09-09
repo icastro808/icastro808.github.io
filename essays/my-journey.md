@@ -40,3 +40,5 @@ When I share my story, people often feel angry on my behalf—how a few words sh
 Looking ahead, I cannot see myself pursuing anything other than computer science, but I’m still unsure of what field of computer science to pursue after graduating. Some of my students suggest I become a computer science teacher due to my ability to simplify difficult concepts, and maybe that’s an option later down the line, but for now, I want to explore the various fields and niches within computer science. With two years left in college, I want to keep learning as much as I can.
 
 Computer science entered my life like a whirlwind, hitting me like a ton of bricks. While my future career path in computer science remains blurry and open, I’m ready to let this blurriness sharpen into focus over time.
+
+<a href="https://www.freepik.com/free-vector/adventure-concept-illustration_11434271.htm#fromView=search&page=1&position=14&uuid=4454ff9c-b3ee-489b-8229-af2cd304aa3b">Image by storyset on Freepik</a>
