@@ -14,7 +14,7 @@ _"To ask the right question is already half the solution to a problem." - Carl J
 <img width="250px" class="rounded float-start pe-4" src="../img/question.jpg">
 
 
-<br><br><br><br>Asking questions is an integral part of growing and developing not only as an individual, but also in one’s career. However, the ability to ask the right questions is a skill in its own right, and one that can greatly influence the quality and effectiveness of the answers you receive. Whether you’re seeking advice, explanations, or troubleshooting a problem, knowing how to craft a precise, thoughtful question can significantly increase your chances of getting help that is useful not only to you, but others who may follow in your footsteps. In this essay, we will delve into what distinguishes a ‘smart’ question from a ‘not so smart’ one by analyzing two different questions asked on StackOverflow, a popular forum used for programming queries. By understanding the benefits of forming and asking smart questions, you can enhance your problem solving skills and contribute more effectively to your professional community.
+<br><br><br>Asking questions is an integral part of growing and developing not only as an individual, but also in one’s career. However, the ability to ask the right questions is a skill in its own right, and one that can greatly influence the quality and effectiveness of the answers you receive. Whether you’re seeking advice, explanations, or troubleshooting a problem, knowing how to craft a precise, thoughtful question can significantly increase your chances of getting help that is useful not only to you, but others who may follow in your footsteps. In this essay, we will delve into what distinguishes a ‘smart’ question from a ‘not so smart’ one by analyzing two different questions asked on StackOverflow, a popular forum used for programming queries. By understanding the benefits of forming and asking smart questions, you can enhance your problem solving skills and contribute more effectively to your professional community.<br><br>
 
 ## What Makes a Question ‘Not So Smart’?
 These ‘not so smart’ questions are typically defined as questions that exhibit the following:
@@ -68,7 +68,7 @@ why does this code not work?
   }
 ```
 
-This question has several key issues. The user repeatedly asks, “why does this code not work” but does not provide any context, error messages, or specific expectations. Additionally, there is no indication that they have researched the issue prior to posting the question, nor is there evidence of any attempts to troubleshoot the issue on their own. This lack of detail and clarity makes it difficult for others to offer any meaningful assistance. Although this question did eventually receive an answer, questions of this nature are often overlooked or ignored, reflecting why clear and detailed questions are essential for effective problem solving.
+This question has several key issues. The user repeatedly asks, “why does this code not work” but does not provide any context, error messages, or specific expectations. Additionally, there is no indication that they have researched the issue prior to posting the question, nor is there evidence of any attempts to troubleshoot the issue on their own. This lack of detail and clarity makes it difficult for others to offer any meaningful assistance. Although this question did eventually receive an answer, questions of this nature are often overlooked or ignored, reflecting why clear and detailed questions are essential for effective problem solving.<br><br>
 
 ## What Makes a ‘Smart’ Question?
 In contrast, ‘smart’ questions possess the qualities that the ‘not so smart’ questions typically lack. They provide clear context, define the problem precisely, and show evidence of effort in solving it on their own.
@@ -92,7 +92,7 @@ Didn't work, can't figure it out. See whole code below.
 …
 ```
 
-The user provides a clear explanation of the issue, including a description of their expectations and previous attempts to fix the problem. This has made it significantly easier for others to understand the problem and offer useful assistance.
+The user provides a clear explanation of the issue, including a description of their expectations and previous attempts to fix the problem. This has made it significantly easier for others to understand the problem and offer useful assistance.<br><br>
 
 ## Conclusion
 Asking clear, well thought out questions is crucial in receiving helpful answers—not just on platforms like StackOverflow, but in any professional setting. By providing detailed context, outlining your expectations, and describing your own efforts to resolve the issue, you are more likely to receive a useful, equally detailed response. This not only helps you, but it also contributes positively to the community. On the other hand, poorly framed questions often go unanswered or ignored, representing missed opportunities for growth and learning. Whether you are a beginner or an expert, learning how to ask the right questions is an essential skill in software engineering and any field that involves daily problem solving.
