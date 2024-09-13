@@ -24,7 +24,7 @@ These ‘not so smart’ questions are typically defined as questions that exhib
   - Minimal prior research
   - Unclear expectations
 
-To illustrate these issues, let’s examine a question from StackOverflow, poorly titled ‘_why this code not work? can you help me?_’ The user has presented three sections of their PHP code, seeking assistance in understanding why their code does not function correctly.
+To illustrate these issues, let’s examine a question from StackOverflow, poorly titled [‘_why this code not work? can you help me?_’](https://stackoverflow.com/questions/36193241/why-this-code-not-work-can-you-help-me) The user has presented three sections of their PHP code, seeking assistance in understanding why their code does not function correctly.
 ```
 why this code not work?
 
@@ -73,7 +73,7 @@ This question has several key issues. The user repeatedly asks, “why does this
 ## What Makes a ‘Smart’ Question?
 In contrast, ‘smart’ questions possess the qualities that the ‘not so smart’ questions typically lack. They provide clear context, define the problem precisely, and show evidence of effort in solving it on their own.
 
-Consider this next example. Although the title of the question, ‘_(Beginner Java issues) Why isn't this code working?_', is somewhat vague as well, we are provided with more clarity and detail. The way this user has formed their question allows others to better understand their problem and offer more effective solutions.
+Consider this next example. Although the title of the question, [‘_(Beginner Java issues) Why isn't this code working?_'](https://stackoverflow.com/questions/14698610/beginner-java-issues-why-isnt-this-code-working), is somewhat vague as well, we are provided with more clarity and detail. The way this user has formed their question allows others to better understand their problem and offer more effective solutions.
 ```
 I have just handed in a lab for class where we had to make a class that describes a certain book. I could not figure out how to do two things. 1. If someone inputs a value less than zero for the 'pages' or 'suggestedRetailPrice' , the value must be set to zero. In this code the value is set 0 even if the value is positive. In the:
 
