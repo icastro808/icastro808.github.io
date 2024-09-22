@@ -22,7 +22,7 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Typescript", "Python" ]
+      "keywords": [ "C", "C++", "Java", "JavaScript", "TypeScript", "Python" ]
     },
     {
       "name": "Toolsets/OS",
@@ -49,10 +49,10 @@
       "endDate": "Present",
       "summary": "Provide tutoring services for UH students taking ICS 101 / 110P / 111 / 211 / 212",
       "highlights": [
-        "Assist with Java, Python, C, C++, and Microsoft Excel",
-        "Provide clear communication of complex topics to students of varying skill levels",
-        "Practice time management skills by balancing tutoring duties and academic deadlines",
-        "Manage tutoring records and schedules via Microsoft Excel",
+        "Assist students in Java, Python, C, C++, and Microsoft Excel",
+        "Communicate complex programming concepts clearly, adapting to students' skill levels to enhance understanding",
+        "Manage time effectively by balancing tutoring duties with academic coursework and deadlines",
+        "Maintain and organize tutoring data and records using Microsoft Excel, ensuring smooth administrative operations",
         "Meet with and discuss student improvement with Computer Science professors"
       ]
     }
