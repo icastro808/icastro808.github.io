@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/nexon/maplestory-logo-1.png
+image: img/nexon/maplestory-logo.png
 title: "Website Recreation: MapleStory"
 date: 2024
 published: true
