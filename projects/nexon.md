@@ -15,13 +15,13 @@ summary: "A recreation of Nexon's MapleStory website."
 I utilized my Bootstrap, React, and Next.js knowledge to recreate Nexon's MapleStory website with functional dropdown menus, links, and scrolling images.
 
 <figure>
-    <a href="https://www.nexon.com/maplestory/">Original Website</a>
-    <image src="/img/nexon/nexon-original.png" width="800px">
+    <a href="https://www.nexon.com/maplestory/">Original Website&nbsp;</a>
+    <img src="/img/nexon/nexon-original.png" width="800px">
     <p>&nbsp;</p>
 </figure>
 
 <figure>
-    Recreated Website
-    <image src="/img/nexon/nexon-nextjs.png" width="800px">
+    Recreated Website&nbsp;
+    <img src="/img/nexon/nexon-nextjs.png" width="800px">
     <p>&nbsp;</p>
 </figure>
