@@ -15,18 +15,22 @@
   },
   "interests": [
     { "name": "Software Development" },
+    { "name": "Web Development" },
     { "name": "Game Development" },
-    { "name": "Astronomy" },
-    { "name": "Traveling" }
+    { "name": "Astronomy" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "JavaScript", "TypeScript", "Python" ]
+      "keywords": [ "C", "C++", "Java", "JavaScript", "TypeScript", "Python", "Bootstrap", "React", "Next.js", "SQL" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Git/GitHub", "Visual Studio Code", "Eclipse", "IntelliJ" ]
+      "keywords": [ "MacOS", "Microsoft Excel", "Git/GitHub", "PostgreSQL", "Visual Studio Code", "Eclipse", "IntelliJ" ]
+    },
+    {
+      "name": "Certifications",
+      "keywords": [ "Academic Subject Certification in Information & Computer Sciences", "Certificate of Competence, Software Developer Specialist", "Certificate of Competence, Basic Logic and Programming" ]
     }
   ],
   "education": [
@@ -52,8 +56,7 @@
         "Assist students in Java, Python, C, C++, and Microsoft Excel",
         "Communicate complex programming concepts clearly, adapting to students' skill levels to enhance understanding",
         "Manage time effectively by balancing tutoring duties with academic coursework and deadlines",
-        "Maintain and organize tutoring data and records using Microsoft Excel, ensuring smooth administrative operations",
-        "Meet with and discuss student improvement with Computer Science professors"
+        "Maintain and organize tutoring data and records using Microsoft Excel, ensuring smooth administrative operations"
       ]
     }
   ],
