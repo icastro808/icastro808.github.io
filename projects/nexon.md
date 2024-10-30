@@ -16,12 +16,12 @@ I utilized my Bootstrap, React, and Next.js knowledge to recreate Nexon's MapleS
 
 <figure>
     <a href="https://www.nexon.com/maplestory/">Original Website</a>
-    <image src="nexon-original.png" width="800px">
+    <image src="/img/nexon/nexon-original.png" width="800px">
     <p>&nbsp;</p>
 </figure>
 
 <figure>
     Recreated Website
-    <image src="nexon-nextjs.png" width="800px">
+    <image src="/img/nexon/nexon-nextjs.png" width="800px">
     <p>&nbsp;</p>
 </figure>
