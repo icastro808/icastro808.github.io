@@ -13,6 +13,7 @@ labels:
   - Coding Standards
 ---
 
+
 As this ICS 314 class comes to an end, I take a moment to reflect on how much I’ve learned and grown in software engineering as a whole. While building web applications was a highlight of this course, and admittedly my favorite part, the deeper value of this class lies in the broader software engineering principles we’ve explored. These aren’t just skills to use for web applications only—they’re universal concepts that can be applied to many areas of software development. Let’s dive in on a couple of them.
 
 ## Coding Standards
