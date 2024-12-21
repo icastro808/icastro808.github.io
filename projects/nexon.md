@@ -4,7 +4,7 @@ type: project
 image: img/nexon/maplestory-logo.png
 title: "Website Recreation: MapleStory"
 date: 2024
-published: true
+published: false
 labels:
   - React
   - Next.js
