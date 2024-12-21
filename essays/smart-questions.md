@@ -9,6 +9,7 @@ labels:
   - Questions
   - Answers
   - StackOverflow
+summary: "\"To ask the right question is already half the solution to a problem.\" - Carl Jung"
 ---
 _"To ask the right question is already half the solution to a problem." - Carl Jung_
 <img width="250px" class="rounded float-start pe-4" src="../img/question.jpg">
