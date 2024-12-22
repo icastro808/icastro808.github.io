@@ -47,7 +47,6 @@ Whether you need a place to vent, to seek advice, or if you just wish to share a
 <h2>Development</h2>
 Dear Sunshine was created using React Bootstrap, Next.js, Typescript, and Prisma ORM over the span of one month. My team used Issue Driven Project Management (IDPM) to structure our project on GitHub, and divided the work between frontend and backend.
 <br />
-<br />
 
 My contribution to this project mainly lied in backend development, and I was responsible for the following features:
 <li>filtering system where users can add tags to their letters</li>
