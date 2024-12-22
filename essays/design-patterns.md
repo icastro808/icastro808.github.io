@@ -10,7 +10,9 @@ labels:
   - Design Patterns
 ---
 
-<img width="600px" class="rounded float-start pe-4" src="../img/design_patterns.png">
+<div class="text-center p-4">
+  <img width="600px" class="rounded float-start pe-4" src="../img/design_patterns.png">
+</div>
 
 ## Scenario
 Your favorite coffee shop announces on social media that their new seasonal drinks are finally here, and everyone’s excited in the comments. You've been waiting all year for this, so you head straight there. You get to the shop and order a drink without thinking twice about it. You don’t care how the coffee is brewed, what beans they use, or the tea blend—you just tell the barista what you want, and let them handle the rest.
