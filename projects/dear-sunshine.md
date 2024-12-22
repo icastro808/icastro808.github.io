@@ -15,8 +15,11 @@ labels:
 summary: "ICS 314 Final Project"
 ---
 
+<br />
+<br />
 <strong>Dear Sunshine</strong> is a website designed to provide a safe space for those who may need it.
 Whether you need a place to vent, to seek advice, or if you just wish to share an accomplishment, write a letter to Sunshine and receive encouraging, uplifting replies to brighten your day.
+<br />
 <br />
 
 <div class="d-flex">
