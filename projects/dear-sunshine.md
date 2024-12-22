@@ -16,7 +16,6 @@ summary: "ICS 314 Final Project"
 ---
 
 <br />
-<br />
 <strong>Dear Sunshine</strong> is a website designed to provide a safe space for those who may need it.
 Whether you need a place to vent, to seek advice, or if you just wish to share an accomplishment, write a letter to Sunshine and receive encouraging, uplifting replies to brighten your day.
 <br />
@@ -32,19 +31,19 @@ Whether you need a place to vent, to seek advice, or if you just wish to share a
 </div>
 <br />
 
-<h1>Features</h1>
+<h2>Features</h2>
 <ul>
   <li><h3>Write Letter</h3>
   Write a letter to Sunshine expressing your thoughts, feelings, or whatever strikes you at the moment. Enhance your letter by adding tags corresponding to your letter's mood.</li>
-  <li><h3>Letter Board</h3>
+  <li><h4>Letter Board</h4>
   View letters created by yourself and others on the main letter board. Reply to letters to offer support, or simply react with emojis.</li>
-  <li><h3>Feeling Down?</h3>
+  <li><h4>Feeling Down?</h4>
   A page that offers mental health tips and resources.</li>
-  <li><h3>Profile</h3>
+  <li><h4>Profile</h4>
   Change your signature and view your letters and replies on your profile page.</li>
 </ul>
 
-<h1>Development</h1>
+<h2>Development</h2>
 Dear Sunshine was created using React Bootstrap, Next.js, Typescript, and Prisma ORM over the span of one month. My team used Issue Driven Project Management (IDPM) to structure our project on GitHub, and divided the work between frontend and backend.
 <br />
 <br />
@@ -57,7 +56,7 @@ My contribution to this project mainly lied in backend development, and I was re
 <br />
 I also contributed to frontend development as well, working with my teammates to achieve a consistent, clean look throughout our website. 
 
-<h1>Links</h1>
+<h2>Links</h2>
 <ul>
   <li><a href="https://dearsunshine.vercel.app/">Dear Sunshine</a></li>
   <li><a href="https://dear-sunshine.github.io/">Project Homepage</a></li>
